@@ -1,0 +1,17 @@
+**Question 1:**
+অর্থ আইন, ২০১৬ অনুসারে, Ordinance No. XXXVI of 1984 এর section 35 এর সংশোধন কী?
+
+**Answer:**
+অর্থ আইন, ২০১৬ অনুসারে, Ordinance No. XXXVI of 1984 এর section 35 এর সংশোধনটি হল: "the accounts are maintained according to the Bangladesh Accounting Standard (BAS) and reported in accordance with the Bangladesh Financial Reporting Standard (BFRS)" শব্দগুলির পরিবর্তে "the accounts are maintained and the statements are prepared and reported in accordance with the Bangladesh Accounting Standards (BAS) and the Bangladesh Financial Reporting Standards (BFRS), and are audited in accordance with the Bangladesh Standards on Auditing (BSA)" শব্দগুলি প্রতিস্থাপন করা হবে।
+
+**Question 2:**
+সংশোধিত section 35 এর মূল উদ্দেশ্য কী?
+
+**Answer:**
+সংশোধিত section 35 এর মূল উদ্দেশ্য হল অ্যাকাউন্টিং এবং আর্থিক প্রতিবেদন প্রস্তুতকরণের জন্য বাংলাদেশ অ্যাকাউন্টিং স্ট্যান্ডার্ড (BAS) এবং বাংলাদেশ ফিন্যান্সিয়াল রিপোর্টিং স্ট্যান্ডার্ড (BFRS) এর ব্যবহার নিশ্চিত করা এবং অডিটিংয়ের জন্য বাংলাদেশ স্ট্যান্ডার্ড অন অডিটিং (BSA) এর ব্যবহার নিশ্চিত করা।
+
+**Question 3:**
+সংশোধিত section 35 এর প্রভাব কী?
+
+**Answer:**
+সংশোধিত section 35 এর প্রভাব হল যে এখন সকল অ্যাকাউন্ট BAS এবং BFRS অনুযায়ী রক্ষণাবেক্ষণ করতে হবে এবং আর্থিক বিবৃতিগুলি BAS এবং BFRS অনুযায়ী প্রস্তুত এবং প্রতিবেদন করতে হবে। এছাড়াও, অডিটগুলি BSA অনুযায়ী পরিচালনা করতে হবে।

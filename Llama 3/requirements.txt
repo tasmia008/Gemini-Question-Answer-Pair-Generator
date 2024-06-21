@@ -1,0 +1,7 @@
+unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git
+trl==0.8.6
+peft==0.10.0 
+accelerate 
+bitsandbytes
+scikit-learn==1.4.2
+xformers==0.0.27.dev792

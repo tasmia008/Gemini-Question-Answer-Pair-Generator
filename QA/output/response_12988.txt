@@ -1,0 +1,17 @@
+**Question 1:**
+অর্থ আইন, ২০১৪ অনুসারে, Ordinance No. XXXVI of 1984 এর section 54 এর সংশোধন কী?
+
+**Answer:**
+অর্থ আইন, ২০১৪ অনুসারে, Ordinance No. XXXVI of 1984 এর section 54 এর sub-section (1) এর clause (b) এর sub-clause (ii) এ "at the rate of ten per cent" শব্দগুলির পরিবর্তে "at the rate of ten per cent where the person receiving such dividend furnishes his twelve-digit Taxpayer's Identification Number (TIN) to the payer or fifteen per cent where the person receiving such dividend fails to furnish his twelve-digit Taxpayer's Identification Number (TIN) to the payer" শব্দগুলি প্রতিস্থাপিত হয়েছে।
+
+**Question 2:**
+কোন শর্তে ডিভিডেন্ডের উপর 10% হারে কর আরোপ করা হবে?
+
+**Answer:**
+যদি ডিভিডেন্ড গ্রহণকারী ব্যক্তি তার ১২-অঙ্কের ট্যাক্সপেয়ার আইডেন্টিফিকেশন নম্বর (TIN) প্রদানকারীকে জমা দেন, তাহলে ডিভিডেন্ডের উপর 10% হারে কর আরোপ করা হবে।
+
+**Question 3:**
+কোন শর্তে ডিভিডেন্ডের উপর 15% হারে কর আরোপ করা হবে?
+
+**Answer:**
+যদি ডিভিডেন্ড গ্রহণকারী ব্যক্তি তার ১২-অঙ্কের ট্যাক্সপেয়ার আইডেন্টিফিকেশন নম্বর (TIN) প্রদানকারীকে জমা দিতে ব্যর্থ হন, তাহলে ডিভিডেন্ডের উপর 15% হারে কর আরোপ করা হবে।

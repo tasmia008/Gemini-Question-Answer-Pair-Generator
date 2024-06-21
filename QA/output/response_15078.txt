@@ -1,0 +1,17 @@
+**Question 1:**
+অর্থ আইন, ২০১৭ অনুসারে, Ordinance No. XXXVI of 1984 এর section 73A এর sub-section (1) এর Explanation এর কোন অংশটি বিলুপ্ত করা হয়েছে?
+
+**Answer:**
+“clause (a) of” শব্দগুলি, সংখ্যা ও বন্ধনীগুলি
+
+**Question 2:**
+অর্থ আইন, ২০১৭ অনুসারে, Ordinance No. XXXVI of 1984 এর section 73A এর sub-section (1) এর Explanation এর clause (i) এর পরিবর্তে কোন নতুন clause (i) প্রতিস্থাপিত হয়েছে?
+
+**Answer:**
+“(i) where the return is subject to assessment under section 82BB, if tax under any other sub-section of section 82BB is higher than the tax under sub-section (1) of that section, the higher tax;”
+
+**Question 3:**
+অর্থ আইন, ২০১৭ অনুসারে, Ordinance No. XXXVI of 1984 এর section 73A এর sub-section (1) এর Explanation এর clause (i) এর পরিবর্তিত অংশটি কী বোঝায়?
+
+**Answer:**
+যদি রিটার্নটি section 82BB এর অধীনে মূল্যায়নের আওতায় থাকে, তবে section 82BB এর অন্য কোনো sub-section এর অধীনে কর যদি সেই section এর sub-section (1) এর অধীনে করের চেয়ে বেশি হয়, তবে উচ্চতর কর প্রযোজ্য হবে।
